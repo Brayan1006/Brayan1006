@@ -2,11 +2,8 @@
 ### Software Developer | Backend Architecture, Enterprise Systems & Logistics Data
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:brayan812019gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:brayan812019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brayan812019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/English-B1_Intermediate-blue?style=for-the-badge" alt="English B1" />
   <img src="https://img.shields.io/badge/Location-Bucaramanga%2C_Colombia-green?style=for-the-badge" alt="Location" />
@@ -33,7 +30,7 @@ Capacidad demostrada para traducir requerimientos de negocio e inventarios de al
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Relational Modeling](https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=sqlite&logoColor=white)
 
-#### **Frontend & Desarrollo Web**
+#### **Frontend & Entorno Web**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -43,28 +40,29 @@ Capacidad demostrada para traducir requerimientos de negocio e inventarios de al
 ![Scrum](https://img.shields.io/badge/Agile_Scrum-007ACC?style=flat-square&logo=scrumalliance&logoColor=white)
 ![UML](https://img.shields.io/badge/UML_Diagrams-00599C?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/AI_Assisted_Dev-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-74AA9C?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ### 📦 Arquitectura de Portafolio & Proyectos Clave
 
 * **Sistema de Gestión y Control de Suministros Críticos (Java Core):**
-  * Implementación en Java puro aplicando principios estrictos de Programación Orientada a Objetos (POO), manejo de memoria dinámica, encapsulamiento y control de excepciones.
-  * *Lógica de negocio:* Cálculo de punto de reorden, métodos de valuación de inventarios (FIFO/PEPS) y alertas de reabastecimiento.
+  * Implementación en Java puro aplicando principios estrictos de Programación Orientada a Objetos (POO), manejo de memoria dinámica, colecciones avanzadas y control de excepciones.
+  * *Lógica de negocio:* Cálculo de punto de reorden, métodos de valuación de inventarios (FIFO/PEPS) y alertas de reabastecimiento en memoria.
 
 * **Logistics & Inventory ERP (Java + MySQL Relational Database):**
   * Sistema transaccional persistente conectado mediante JDBC a esquemas relacionales normalizados (3FN).
-  * Consultas analíticas complejas (JOIN, GROUP BY, subconsultas), disparadores y trazabilidad de proveedores y despachos en tiempo real.
+  * Consultas analíticas complejas (JOIN, GROUP BY, subconsultas), integridad referencial y trazabilidad de proveedores y despachos en tiempo real.
 
 * **Dashboard de Métricas e Indicadores Operativos (Frontend Web):**
   * Interfaz responsiva desarrollada con HTML5, CSS3 y JavaScript para visualización de KPIs de rendimiento logístico y tiempos de ciclo.
 
 ---
 
-### 📊 Actividad & Métricas en GitHub
+### 🎯 Roadmap de Ejecución Técnica (Sprint Q3 - Q4 2026)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayan1006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan1006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+- [x] Arquitectura base de perfil técnico y control de versiones con Git/GitHub.
+- [ ] Implementación de lógica de inventarios y colecciones en Java (Consola).
+- [ ] Modelado de esquemas relacionales y scripts de persistencia en MySQL.
+- [ ] Integración transaccional Java + JDBC + Base de Datos MySQL.
+- [ ] Interfaz web responsiva con consumo de datos para reportería logística.
