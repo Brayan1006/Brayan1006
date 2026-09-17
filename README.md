@@ -66,3 +66,13 @@ Capacidad demostrada para traducir requerimientos de negocio e inventarios de al
 - [ ] Modelado de esquemas relacionales y scripts de persistencia en MySQL.
 - [ ] Integración transaccional Java + JDBC + Base de Datos MySQL.
 - [ ] Interfaz web responsiva con consumo de datos para reportería logística.
+
+---
+
+### 🐍 Registro de Actividad & Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake contribution grid" src="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake.svg">
+</picture>
