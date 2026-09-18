@@ -72,7 +72,7 @@ Capacidad demostrada para traducir requerimientos de negocio e inventarios de al
 ### 🐍 Registro de Actividad & Contribuciones
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake contribution grid" src="https://raw.githubusercontent.com/Brayan1006/Brayan1006/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cd-brayan/cd-brayan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cd-brayan/cd-brayan/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake contribution grid" src="https://raw.githubusercontent.com/cd-brayan/cd-brayan/output/github-contribution-grid-snake.svg">
 </picture>
